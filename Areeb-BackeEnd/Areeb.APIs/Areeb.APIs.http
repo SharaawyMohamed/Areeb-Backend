@@ -1,0 +1,6 @@
+@Areeb.APIs_HostAddress = http://localhost:5039
+
+GET {{Areeb.APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
